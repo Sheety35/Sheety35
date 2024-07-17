@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheety35
+- 👋 Hi, I’m Shashank k 
 - 👀 I’m interested in New Technology and meeting new people 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on ML/DL
