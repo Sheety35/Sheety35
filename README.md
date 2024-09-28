@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Shashank k</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheety35&label=Profile%20views&color=0e75b6&style=flat" alt="sheety35" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheety35" alt="sheety35" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://landing-page-b5crul203-sheety35s-projects.vercel.app/](https://landing-page-b5crul203-sheety35s-projects.vercel.app/)
@@ -21,5 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheety35&show_icons=true&locale=en&layout=compact" alt="sheety35" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheety35&show_icons=true&locale=en" alt="sheety35" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheety35&label=Profile%20views&color=0e75b6&style=flat" alt="sheety35" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheety35&" alt="sheety35" /></p>
